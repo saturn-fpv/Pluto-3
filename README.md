@@ -66,7 +66,6 @@ Suggested prints:
 
 ## 🏗️ Build Tips
 - Tighten the stack screw with a nut under the AIO to reduce noise
-- Use **M2 washers** under motor screws to prevent carbon delamination  
 - Place the battery centrally for the best CG  
 - Keep wiring extremely short to avoid noise and save weight  
 
@@ -74,6 +73,6 @@ Suggested prints:
 
 ## 🔗 Printables Link
 
-👉 **Printables:** [https://www.printables.com/model/1485199-pluto-120-fpv-drone-frame](https://www.printables.com/model/1485199-pluto-120-fpv-drone-frame)
+👉 **Printables:** [https://www.printables.com/model/1485199-pluto-3-fpv-drone-frame](https://www.printables.com/model/1485199-pluto-3-fpv-drone-frame)
 
 ---
